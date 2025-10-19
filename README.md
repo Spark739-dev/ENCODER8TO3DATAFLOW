@@ -65,11 +65,13 @@ Figure 02  Encoder 8 * 3
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![OUTPUT](../RTL.png)
+<img width="1918" height="1135" alt="RTL" src="https://github.com/user-attachments/assets/d95b1089-f200-4e4b-b317-2081ee637748" />
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![OUTPUT](../TIMING.png)
+<img width="1918" height="1142" alt="TIMING" src="https://github.com/user-attachments/assets/c9aa0507-04f5-4fe3-95e5-e13a60eb06e3" />
+
 
 **RESULTS**
 
