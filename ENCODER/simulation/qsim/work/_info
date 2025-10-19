@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\quartus\DE\ENCODER\simulation\qsim
+vencoder8
+Z1 I54nHZb>BS8=7?zRm;c<8d0
+Z2 V9hQ:P0Pl5lNB0:3GICP=m1
+Z3 dC:\altera\13.0sp1\quartus\DE\ENCODER\simulation\qsim
+Z4 w1760863752
+Z5 8encoder8.vo
+Z6 Fencoder8.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|encoder8.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 2O`NPoK1FLifOAhziW0ZG1
+!s85 0
+Z11 !s108 1760863752.768000
+Z12 !s107 encoder8.vo|
+!s101 -O0
+vencoder8_vlg_check_tst
+!i10b 1
+Z13 !s100 6959959jBiURQNXelbPFH2
+Z14 I]aP^eJLbXYHWI=VjR5zW[0
+Z15 VCg<1;]bjMZ=<zkbN2a?VF3
+R3
+Z16 w1760863751
+Z17 8encoder8.vt
+Z18 Fencoder8.vt
+L0 71
+R7
+r1
+!s85 0
+31
+Z19 !s108 1760863752.864000
+Z20 !s107 encoder8.vt|
+Z21 !s90 -work|work|encoder8.vt|
+!s101 -O0
+R9
+vencoder8_vlg_sample_tst
+!i10b 1
+Z22 !s100 fK]i^MXi8b^8:^4QU<a?Y1
+Z23 IRQe;k?R<EFoK_1_g>GzDS2
+Z24 VKo5>D2Oo[[N^d17kkCSFM1
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vencoder8_vlg_vec_tst
+!i10b 1
+!s100 i]6BMVi8O@3[_bUL23XS>1
+I2HkG2;92[X<:`<UY45=cl0
+Z25 VgnaYW6`d;gAH:nb7^YYbm2
+R3
+R16
+R17
+R18
+Z26 L0 220
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
